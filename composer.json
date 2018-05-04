@@ -1,5 +1,5 @@
 {
-  "name": "muplugin/s3-sitemap-url",
+  "name": "axelspringer/wp-mu-s3-sitemap-url",
   "type": "wordpress-muplugin",
   "description": "Handle S3 Sitemap routes",
   "keywords": [
@@ -10,11 +10,15 @@
     {
       "name": "Stefan Schwager",
       "homepage": "http://www.axelspringer.de"
+    },
+    {
+      "name": "Mathias Witt",
+      "homepage": "http://www.axelspringer.de"
     }
   ],
-  "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/s3-sitemap-url",
-  "license": "proprietary",
+  "homepage": "https://github.com/axelspringer/wp-mu-s3-sitemap-url",
+  "license": "Apache-2.0",
   "extra": {
-    "installer-name": "s3-sitemap-url"
+    "installer-name": "wp-mu-s3-sitemap-url"
   }
 }
